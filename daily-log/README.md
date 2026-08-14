@@ -5,7 +5,7 @@
 ## 構成
 
 ```text
-by-nishinakanae/
+daily-log/
 ├── README.md
 ├── daily/       # 日ごとの学習記録
 ├── topics/      # 後から参照するテーマ別メモ

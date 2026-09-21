@@ -14,6 +14,10 @@ daily-log/
 
 ## 運用
 
+テーマ別メモ：
+
+- [ISUCON開始から初回ベンチマークまで](topics/isucon-startup.md)
+
 - 学習日は短くても`daily/YYYY-MM-DD.md`を残す
 - 調べた文章のコピーではなく、自分の言葉で説明する
 - 繰り返し参照する内容だけ`topics/`へ整理する
